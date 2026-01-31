@@ -188,7 +188,7 @@ a:hover {
 .logo {
   font-size: 1.25rem;
   font-weight: 900;
-  text-transform: uppercase;
+  text-transform: lowercase;
   letter-spacing: 0.1em;
   color: var(--color-accent-green);
   border: 2px solid var(--color-accent-green);
@@ -477,3 +477,4 @@ a:hover {
     padding: 0.5rem 1rem;
     cursor: pointer;
   }
+}
